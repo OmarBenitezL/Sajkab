@@ -1,4 +1,5 @@
 import React from 'react';
+import Header from './components/header';
 import logo from './logo.svg';
 import './App.css';
 
@@ -10,6 +11,7 @@ function App() {
         <p>
           Hi from react
         </p>
+        <Header></Header>
         <a
           className="App-link"
           href="https://reactjs.org"
