@@ -36,9 +36,9 @@ _(example: `refactor(PR Template): [closes GD-2343] update explanation for title
 ### How can reviewers test the changes?
 (What user steps would someone need to follow to reach the feature and see it in action?)
 
-### To-Do List (if WIP):
-* [ ] Do you add a new Custom Label? if so, do you added it into: (https://docs.google.com/spreadsheets/d/18aoDQprA5DRd_S5tmyevquI29N_IDP090TmOcJ-9bUM/edit#gid=0)
-* [ ] Do you add a new Validation Rule or Trigger Error? if so, do you added it into: (https://geninfo.atlassian.net/wiki/spaces/TD/pages/578814019/Salesforce+Object+Restrictions)
-* [ ] Do you add a new Field? if so, do you added it into: (https://docs.google.com/spreadsheets/u/1/d/1Pw6cSbL1pJf1j8wPJvaNB5qzkmCSH6fxVC6SQLXi4Dg/edit#gid=2145702266)
-* [ ] Do you add a new Custom Permission? if so, do you added it into: (https://geninfo.atlassian.net/wiki/spaces/TD/pages/545718374/Salesforce+Custom+Permissions)
-* [ ] Do you add a new Permission set? if so, do you added it into: (https://geninfo.atlassian.net/wiki/spaces/TD/pages/151879830/Profiles+Permission+Sets)
+### Development Checklist:
+* [ ] Do you add a new Custom Label? if so, do you added it into: https://docs.google.com/spreadsheets/d/18aoDQprA5DRd_S5tmyevquI29N_IDP090TmOcJ-9bUM/edit#gid=0
+* [ ] Do you add a new Validation Rule or Trigger Error? if so, do you added it into: https://geninfo.atlassian.net/wiki/spaces/TD/pages/578814019/Salesforce+Object+Restrictions
+* [ ] Do you add a new Field? if so, do you added it into: https://docs.google.com/spreadsheets/u/1/d/1Pw6cSbL1pJf1j8wPJvaNB5qzkmCSH6fxVC6SQLXi4Dg/edit#gid=2145702266
+* [ ] Do you add a new Custom Permission? if so, do you added it into: https://geninfo.atlassian.net/wiki/spaces/TD/pages/545718374/Salesforce+Custom+Permissions
+* [ ] Do you add a new Permission set? if so, do you added it into: https://geninfo.atlassian.net/wiki/spaces/TD/pages/151879830/Profiles+Permission+Sets
