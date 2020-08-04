@@ -1,23 +1,19 @@
 {
   "files": {
     "main.css": "/sajkab/static/css/main.d975d8be.chunk.css",
-    "main.js": "/sajkab/static/js/main.b0873201.chunk.js",
-    "main.js.map": "/sajkab/static/js/main.b0873201.chunk.js.map",
+    "main.js": "/sajkab/static/js/main.d5cf4a77.chunk.js",
+    "main.js.map": "/sajkab/static/js/main.d5cf4a77.chunk.js.map",
     "runtime-main.js": "/sajkab/static/js/runtime-main.d0aa46f1.js",
     "runtime-main.js.map": "/sajkab/static/js/runtime-main.d0aa46f1.js.map",
     "static/css/2.ed439b8d.chunk.css": "/sajkab/static/css/2.ed439b8d.chunk.css",
-    "static/js/2.60cabebf.chunk.js": "/sajkab/static/js/2.60cabebf.chunk.js",
-    "static/js/2.60cabebf.chunk.js.map": "/sajkab/static/js/2.60cabebf.chunk.js.map",
+    "static/js/2.d81be2f8.chunk.js": "/sajkab/static/js/2.d81be2f8.chunk.js",
+    "static/js/2.d81be2f8.chunk.js.map": "/sajkab/static/js/2.d81be2f8.chunk.js.map",
     "index.html": "/sajkab/index.html",
-    "precache-manifest.1781da7a3c86d0ba6bbc32209b497dbe.js": "/sajkab/precache-manifest.1781da7a3c86d0ba6bbc32209b497dbe.js",
+    "precache-manifest.e81e23dae48624e96832817c7b574fec.js": "/sajkab/precache-manifest.e81e23dae48624e96832817c7b574fec.js",
     "service-worker.js": "/sajkab/service-worker.js",
     "static/css/2.ed439b8d.chunk.css.map": "/sajkab/static/css/2.ed439b8d.chunk.css.map",
     "static/css/main.d975d8be.chunk.css.map": "/sajkab/static/css/main.d975d8be.chunk.css.map",
-    "static/js/2.60cabebf.chunk.js.LICENSE.txt": "/sajkab/static/js/2.60cabebf.chunk.js.LICENSE.txt",
-    "static/media/c1.png": "/sajkab/static/media/c1.bc09dbb5.png",
-    "static/media/c2.png": "/sajkab/static/media/c2.809540d5.png",
-    "static/media/c3.png": "/sajkab/static/media/c3.5e3437e2.png",
-    "static/media/c4.png": "/sajkab/static/media/c4.33f57ba4.png",
+    "static/js/2.d81be2f8.chunk.js.LICENSE.txt": "/sajkab/static/js/2.d81be2f8.chunk.js.LICENSE.txt",
     "static/media/discord.png": "/sajkab/static/media/discord.07eccabd.png",
     "static/media/fb.png": "/sajkab/static/media/fb.70c3a7a2.png",
     "static/media/logo.png": "/sajkab/static/media/logo.37c3b5a3.png",
@@ -26,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.d0aa46f1.js",
     "static/css/2.ed439b8d.chunk.css",
-    "static/js/2.60cabebf.chunk.js",
+    "static/js/2.d81be2f8.chunk.js",
     "static/css/main.d975d8be.chunk.css",
-    "static/js/main.b0873201.chunk.js"
+    "static/js/main.d5cf4a77.chunk.js"
   ]
 }

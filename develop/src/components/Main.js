@@ -2,10 +2,6 @@ import React from 'react';
 import { Navbar, Container, Row, Col, Carousel } from 'react-bootstrap'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import logo from '../img/logo.png';
-import c1 from '../img/c1.png';
-import c2 from '../img/c2.png';
-import c3 from '../img/c3.png';
-import c4 from '../img/c4.png';
 import fb from '../img/fb.png';
 import bgg from '../img/bgg.png';
 import discord from '../img/discord.png';
@@ -49,17 +45,17 @@ export default class Main extends React.Component {
             </Col>
             <Col sm={9} style={{background:"white"}}>
               <Carousel>
-                <Carousel.Item>
-                  <img className="d-block w-100" src={c1} alt="First slide"/>
+               <Carousel.Item>
+                  <img className="d-block w-100" src="https://i.imgur.com/U2MDZiz.jpg" alt="First slide"/> 
                 </Carousel.Item>
                 <Carousel.Item>
-                  <img className="d-block w-100" src={c2} alt="First slide"/>
+                  <img className="d-block w-100" src="https://i.imgur.com/dYYmEnF.jpg" alt="First slide"/>
                 </Carousel.Item>
                 <Carousel.Item>
-                  <img className="d-block w-100" src={c3} alt="First slide"/> 
+                  <img className="d-block w-100" src="https://i.imgur.com/ERPVoan.jpg" alt="First slide"/>
                 </Carousel.Item>
                 <Carousel.Item>
-                  <img className="d-block w-100" src={c4} alt="First slide"/> 
+                  <img className="d-block w-100" src="https://i.imgur.com/qiMg1Sd.jpg" alt="First slide"/> 
                 </Carousel.Item>
               </Carousel>
             </Col>
