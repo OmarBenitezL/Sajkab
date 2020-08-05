@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b954c74c0b8d67d9ee788bb162798536",
+    "revision": "ae1a757b7934da8a555a5874d66a4c5c",
     "url": "/sajkab/index.html"
   },
   {
-    "revision": "16ecc71908d53ccd4ce7",
+    "revision": "91a727ee91a2298fcbef",
     "url": "/sajkab/static/css/2.ed439b8d.chunk.css"
   },
   {
-    "revision": "f70fa5ebafbf60eb8094",
+    "revision": "dec97878298f3a1aecc1",
     "url": "/sajkab/static/css/main.d975d8be.chunk.css"
   },
   {
-    "revision": "16ecc71908d53ccd4ce7",
-    "url": "/sajkab/static/js/2.d81be2f8.chunk.js"
+    "revision": "91a727ee91a2298fcbef",
+    "url": "/sajkab/static/js/2.a0a83dff.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/sajkab/static/js/2.d81be2f8.chunk.js.LICENSE.txt"
+    "url": "/sajkab/static/js/2.a0a83dff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f70fa5ebafbf60eb8094",
-    "url": "/sajkab/static/js/main.d5cf4a77.chunk.js"
+    "revision": "dec97878298f3a1aecc1",
+    "url": "/sajkab/static/js/main.ba573595.chunk.js"
   },
   {
     "revision": "15d17cd1a55aa855371c",
@@ -36,8 +36,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sajkab/static/media/fb.70c3a7a2.png"
   },
   {
+    "revision": "a5cba92cd1fe5b7da0ecfa486529fe96",
+    "url": "/sajkab/static/media/ks.a5cba92c.png"
+  },
+  {
     "revision": "37c3b5a375b8988a51435b515c6c5be6",
     "url": "/sajkab/static/media/logo.37c3b5a3.png"
+  },
+  {
+    "revision": "780ee28e51e0e385f88be0ddfdd151ef",
+    "url": "/sajkab/static/media/tabt.780ee28e.png"
   },
   {
     "revision": "a51ab7ed010a415170cd93a2a29d96dd",

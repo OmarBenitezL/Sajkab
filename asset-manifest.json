@@ -1,29 +1,31 @@
 {
   "files": {
     "main.css": "/sajkab/static/css/main.d975d8be.chunk.css",
-    "main.js": "/sajkab/static/js/main.d5cf4a77.chunk.js",
-    "main.js.map": "/sajkab/static/js/main.d5cf4a77.chunk.js.map",
+    "main.js": "/sajkab/static/js/main.ba573595.chunk.js",
+    "main.js.map": "/sajkab/static/js/main.ba573595.chunk.js.map",
     "runtime-main.js": "/sajkab/static/js/runtime-main.d0aa46f1.js",
     "runtime-main.js.map": "/sajkab/static/js/runtime-main.d0aa46f1.js.map",
     "static/css/2.ed439b8d.chunk.css": "/sajkab/static/css/2.ed439b8d.chunk.css",
-    "static/js/2.d81be2f8.chunk.js": "/sajkab/static/js/2.d81be2f8.chunk.js",
-    "static/js/2.d81be2f8.chunk.js.map": "/sajkab/static/js/2.d81be2f8.chunk.js.map",
+    "static/js/2.a0a83dff.chunk.js": "/sajkab/static/js/2.a0a83dff.chunk.js",
+    "static/js/2.a0a83dff.chunk.js.map": "/sajkab/static/js/2.a0a83dff.chunk.js.map",
     "index.html": "/sajkab/index.html",
-    "precache-manifest.f67d2e7b5231de35365618e00057b902.js": "/sajkab/precache-manifest.f67d2e7b5231de35365618e00057b902.js",
+    "precache-manifest.6791c7bfa649bdb370d3a4f1b5997e57.js": "/sajkab/precache-manifest.6791c7bfa649bdb370d3a4f1b5997e57.js",
     "service-worker.js": "/sajkab/service-worker.js",
     "static/css/2.ed439b8d.chunk.css.map": "/sajkab/static/css/2.ed439b8d.chunk.css.map",
     "static/css/main.d975d8be.chunk.css.map": "/sajkab/static/css/main.d975d8be.chunk.css.map",
-    "static/js/2.d81be2f8.chunk.js.LICENSE.txt": "/sajkab/static/js/2.d81be2f8.chunk.js.LICENSE.txt",
+    "static/js/2.a0a83dff.chunk.js.LICENSE.txt": "/sajkab/static/js/2.a0a83dff.chunk.js.LICENSE.txt",
     "static/media/discord.png": "/sajkab/static/media/discord.07eccabd.png",
     "static/media/fb.png": "/sajkab/static/media/fb.70c3a7a2.png",
+    "static/media/ks.png": "/sajkab/static/media/ks.a5cba92c.png",
     "static/media/logo.png": "/sajkab/static/media/logo.37c3b5a3.png",
+    "static/media/tabt.png": "/sajkab/static/media/tabt.780ee28e.png",
     "static/media/yt.svg": "/sajkab/static/media/yt.a51ab7ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d0aa46f1.js",
     "static/css/2.ed439b8d.chunk.css",
-    "static/js/2.d81be2f8.chunk.js",
+    "static/js/2.a0a83dff.chunk.js",
     "static/css/main.d975d8be.chunk.css",
-    "static/js/main.d5cf4a77.chunk.js"
+    "static/js/main.ba573595.chunk.js"
   ]
 }
